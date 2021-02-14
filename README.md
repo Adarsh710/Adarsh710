@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm **Adarsh**
+##### Web Developer🕸️
+##### Love memes😂 
+I like to contribute to open source and trying to do so more this year👊
 
-<!--
-**Adarsh710/Adarsh710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Cool Web AR stuff 
+- 🌱 I’m currently learning React JS and Golang 
+- ⚡ Fun fact:  Apes together strong 💪 
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh710&show_icons=true&count_private=true)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="color: white" alt='github' height='40'>](https://github.com/adarsh710)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adarsh-710/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adarsh_710)  
