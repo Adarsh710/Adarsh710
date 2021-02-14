@@ -1,11 +1,11 @@
-### Hi there 👋, I'm **Adarsh**
-##### Web Developer🕸️
-##### Love memes😂 
+# Hi there 👋, I'm **Adarsh**
+### Web Developer🕸️
+### Meme lover😂 
 I like to contribute to open source and trying to do so more this year👊
 
 - 🔭 I’m currently working on Cool Web AR stuff 
 - 🌱 I’m currently learning React JS and Golang 
-- ⚡ Fun fact:  Apes together strong 💪 
+- ⚡ Fun fact:  **Apes together strong** 💪
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh710&show_icons=true&count_private=true)  
 
