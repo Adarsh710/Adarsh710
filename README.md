@@ -1,6 +1,5 @@
 # Hi there 👋, I'm **Adarsh**
-### Web Developer🕸️
-### Meme lover😂 
+### Web Developer🕸️ 
 I like to contribute to open source and trying to do so more this year👊
 
 - 🔭 I’m currently working on Cool Web AR stuff 
