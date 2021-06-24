@@ -3,7 +3,7 @@
 I like to contribute to open source and trying to do so more this year👊
 
 - 🔭 I’m currently working on Cool Web AR stuff 
-- 🌱 I’m currently learning React JS and Golang 
+- 🌱 I’m currently learning Golang 
 - ⚡ Fun fact:  **Apes together strong** 💪
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh710&show_icons=true&count_private=true)  
